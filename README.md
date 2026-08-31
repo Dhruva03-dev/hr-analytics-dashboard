@@ -23,8 +23,8 @@ This dashboard is designed to help HR teams and business leaders quickly underst
 | `linkedin-carousel-02-dashboard.png` | LinkedIn carousel dashboard slide |
 | `project-overview.md` | Dashboard scope, audience, and business questions |
 
-## Data
-Built with publicly available HR data for learning and portfolio purposes. The data is used to demonstrate analytics, dashboard design, and reporting techniques; it is not a real company workforce record.
+## Data source
+Built with a public HR analytics dataset sourced from Kaggle for learning and portfolio purposes. The data is used to demonstrate analytics, dashboard design, and reporting techniques; it is not a real company workforce record.
 
 ## Preview
 ![LinkedIn carousel intro](linkedin-carousel-01-intro.png)
