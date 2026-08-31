@@ -3,6 +3,9 @@
 ## Objective
 Create a single executive summary that gives HR and leadership teams a fast, reliable picture of the workforce. Instead of reviewing multiple spreadsheets, stakeholders can use one interactive dashboard to monitor workforce size, movement, location, and representation.
 
+## Data source
+This project uses a public HR analytics dataset sourced from Kaggle for learning and portfolio purposes. The dataset is used to demonstrate dashboard design, analytical thinking, and Power BI reporting techniques.
+
 ## Intended audience
 - HR leaders monitoring workforce health and employee movement
 - Business leaders seeking a high-level workforce snapshot
